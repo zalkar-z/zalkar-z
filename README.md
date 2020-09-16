@@ -1,6 +1,6 @@
-### Hey there 👋
+### Hi there 👋
 
-Good to see you here. Reach out to zalkar.ziiaidin@gmail.com if you need me.
+It is good to see you. Reach out to zalkar.ziiaidin@gmail.com if you need me.
 
 Best,
 Zak
