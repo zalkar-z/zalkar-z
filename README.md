@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-It is good to see you. Reach out to zalkar.ziiaidin@gmail.com if you need me.
+Check out [zalkar.me](https://www.zalkar.me/) to see what I am up to or reach out to zalkar.ziiaidin@gmail.com to connect.
 
 Best,
-Zak
+Zalkar
 
 <!--
 **zalkar-z/zalkar-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
